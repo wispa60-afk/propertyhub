@@ -30,4 +30,10 @@ export const networkSites: NetworkSite[] = [
     description: "Property & real estate guides for Australians",
     accent: "#10b981",
   },
+  {
+    name: "PoolHub",
+    url: "https://poolhubai.com.au",
+    description: "Pool & outdoor living guides for Australians",
+    accent: "#06b6d4",
+  },
 ]
