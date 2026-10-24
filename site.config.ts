@@ -1,5 +1,6 @@
 export const siteConfig = {
   name: "PropertyHub",
+  description: "Property guides for Australian homeowners, buyers, sellers and renters: prep, maintenance and renovation tips, plus free quotes from local tradies.",
   tagline: "Australia's Property & Real Estate Guide",
   domain: "propertyhubai.com.au",
   port: 3203,
